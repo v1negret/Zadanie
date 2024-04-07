@@ -1,0 +1,4 @@
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Main\bin\Release\net8.0\win-x64\publish\Zadanie.Main.pdb
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Main\bin\Release\net8.0\win-x64\publish\Zadanie.Services.pdb
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Main\bin\Release\net8.0\win-x64\publish\Zadanie.Models.pdb
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Main\bin\Release\net8.0\win-x64\publish\Zadanie.Main.exe

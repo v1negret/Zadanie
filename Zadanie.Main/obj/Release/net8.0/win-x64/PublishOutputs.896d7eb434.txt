@@ -1,0 +1,2 @@
+D:\Tests\Zadanie.Main.pdb
+D:\Tests\Zadanie.Main.exe

@@ -1,0 +1,4 @@
+D:\A\Zadanie.Main.pdb
+D:\A\Zadanie.Services.pdb
+D:\A\Zadanie.Models.pdb
+D:\A\Zadanie.Main.exe

@@ -1,0 +1,15 @@
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Services\bin\Release\net8.0\Zadanie.Services.deps.json
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Services\bin\Release\net8.0\Zadanie.Services.dll
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Services\bin\Release\net8.0\Zadanie.Services.pdb
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Services\obj\Release\net8.0\Zadanie.Services.csproj.AssemblyReference.cache
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Services\obj\Release\net8.0\Zadanie.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Services\obj\Release\net8.0\Zadanie.Services.AssemblyInfoInputs.cache
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Services\obj\Release\net8.0\Zadanie.Services.AssemblyInfo.cs
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Services\obj\Release\net8.0\Zadanie.Services.csproj.CoreCompileInputs.cache
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Services\obj\Release\net8.0\Zadanie..3B866CA8.Up2Date
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Services\obj\Release\net8.0\Zadanie.Services.dll
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Services\obj\Release\net8.0\refint\Zadanie.Services.dll
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Services\obj\Release\net8.0\Zadanie.Services.pdb
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Services\obj\Release\net8.0\ref\Zadanie.Services.dll
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Services\bin\Release\net8.0\Zadanie.Models.dll
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Services\bin\Release\net8.0\Zadanie.Models.pdb

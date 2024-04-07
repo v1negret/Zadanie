@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cv1Q9rfUlP06XOT9V+S/c5sPOtCri2o4VhKyp7dD8sYzvtuJNpaHr1x0Yvusb5WAmn/E5lNU6VzRQIpfNNrmQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maksb\\RiderProjects\\Zadanie\\Zadanie.Models\\Zadanie.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maksb\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\maksb\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.2\\microsoft.netcore.app.runtime.win-x86.8.0.2.nupkg.sha512",
+    "C:\\Users\\maksb\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.2\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.2.nupkg.sha512",
+    "C:\\Users\\maksb\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.2\\microsoft.aspnetcore.app.runtime.win-x86.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Models\bin\Release\net8.0\Zadanie.Models.deps.json
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Models\bin\Release\net8.0\Zadanie.Models.dll
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Models\bin\Release\net8.0\Zadanie.Models.pdb
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Models\obj\Release\net8.0\Zadanie.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Models\obj\Release\net8.0\Zadanie.Models.AssemblyInfoInputs.cache
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Models\obj\Release\net8.0\Zadanie.Models.AssemblyInfo.cs
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Models\obj\Release\net8.0\Zadanie.Models.csproj.CoreCompileInputs.cache
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Models\obj\Release\net8.0\Zadanie.Models.dll
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Models\obj\Release\net8.0\refint\Zadanie.Models.dll
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Models\obj\Release\net8.0\Zadanie.Models.pdb
+C:\Users\maksb\RiderProjects\Zadanie\Zadanie.Models\obj\Release\net8.0\ref\Zadanie.Models.dll
